@@ -5,160 +5,375 @@
       .cut { fill: none; stroke: #000; stroke-width: 0.5; }
       .fold { fill: none; stroke: #d33; stroke-width: 0.4; stroke-dasharray: 3,2; }
       .glue { fill: none; stroke: #36c; stroke-width: 0.4; stroke-dasharray: 2,2; }
-      .pe { fill: none; stroke: #9C8E78; stroke-width: 0.18; }
+      .pe { fill: none; stroke: #4A3F30; stroke-width: 0.35; stroke-linecap: round; }
     </style>
   </defs>
   <g transform="translate(20, 20)">
 
     <g id="design">
-      <line class="pe" x1="15.00" y1="244.68" x2="165.00" y2="244.68" />
-      <line class="pe" x1="19.64" y1="245.03" x2="160.37" y2="245.03" />
-      <line class="pe" x1="16.77" y1="245.38" x2="163.23" y2="245.38" />
-      <line class="pe" x1="21.41" y1="245.74" x2="158.59" y2="245.74" />
-      <line class="pe" x1="18.54" y1="246.09" x2="161.46" y2="246.09" />
-      <line class="pe" x1="15.67" y1="246.44" x2="164.32" y2="246.44" />
-      <line class="pe" x1="20.31" y1="246.79" x2="159.69" y2="246.79" />
-      <line class="pe" x1="17.45" y1="247.15" x2="162.56" y2="247.15" />
-      <line class="pe" x1="22.08" y1="247.50" x2="157.92" y2="247.50" />
-      <line class="pe" x1="19.22" y1="247.85" x2="160.78" y2="247.85" />
-      <line class="pe" x1="16.35" y1="248.21" x2="163.65" y2="248.21" />
-      <line class="pe" x1="20.99" y1="248.56" x2="159.01" y2="248.56" />
-      <line class="pe" x1="18.12" y1="248.91" x2="161.88" y2="248.91" />
-      <line class="pe" x1="15.26" y1="249.26" x2="164.74" y2="249.26" />
-      <line class="pe" x1="19.89" y1="249.62" x2="160.11" y2="249.62" />
-      <line class="pe" x1="17.03" y1="249.97" x2="162.97" y2="249.97" />
-      <line class="pe" x1="21.66" y1="250.32" x2="158.34" y2="250.32" />
-      <line class="pe" x1="18.80" y1="250.68" x2="161.20" y2="250.68" />
-      <line class="pe" x1="15.93" y1="251.03" x2="164.07" y2="251.03" />
-      <line class="pe" x1="20.57" y1="251.38" x2="159.44" y2="251.38" />
-      <line class="pe" x1="17.70" y1="251.74" x2="162.30" y2="251.74" />
-      <line class="pe" x1="22.34" y1="252.09" x2="157.66" y2="252.09" />
-      <line class="pe" x1="19.47" y1="252.44" x2="160.53" y2="252.44" />
-      <line class="pe" x1="16.61" y1="252.79" x2="163.39" y2="252.79" />
-      <line class="pe" x1="21.24" y1="253.15" x2="158.76" y2="253.15" />
-      <line class="pe" x1="18.38" y1="253.50" x2="161.62" y2="253.50" />
-      <line class="pe" x1="15.51" y1="253.85" x2="164.49" y2="253.85" />
-      <line class="pe" x1="20.14" y1="254.21" x2="159.85" y2="254.21" />
-      <line class="pe" x1="17.28" y1="254.56" x2="162.72" y2="254.56" />
-      <line class="pe" x1="21.92" y1="254.91" x2="158.08" y2="254.91" />
-      <line class="pe" x1="19.05" y1="255.26" x2="160.95" y2="255.26" />
-      <line class="pe" x1="16.19" y1="255.62" x2="163.81" y2="255.62" />
-      <line class="pe" x1="20.82" y1="255.97" x2="159.18" y2="255.97" />
-      <line class="pe" x1="17.96" y1="256.32" x2="162.04" y2="256.32" />
-      <line class="pe" x1="1.68" y1="135.00" x2="1.68" y2="243.00" />
-      <line class="pe" x1="2.03" y1="138.34" x2="2.03" y2="239.66" />
-      <line class="pe" x1="2.38" y1="136.27" x2="2.38" y2="241.73" />
-      <line class="pe" x1="2.74" y1="139.61" x2="2.74" y2="238.39" />
-      <line class="pe" x1="3.09" y1="137.55" x2="3.09" y2="240.45" />
-      <line class="pe" x1="3.44" y1="135.49" x2="3.44" y2="242.51" />
-      <line class="pe" x1="3.79" y1="138.82" x2="3.79" y2="239.18" />
-      <line class="pe" x1="4.15" y1="136.76" x2="4.15" y2="241.24" />
-      <line class="pe" x1="4.50" y1="140.10" x2="4.50" y2="237.90" />
-      <line class="pe" x1="4.85" y1="138.03" x2="4.85" y2="239.97" />
-      <line class="pe" x1="5.21" y1="135.97" x2="5.21" y2="242.03" />
-      <line class="pe" x1="5.56" y1="139.31" x2="5.56" y2="238.69" />
-      <line class="pe" x1="5.91" y1="137.25" x2="5.91" y2="240.75" />
-      <line class="pe" x1="6.26" y1="135.18" x2="6.26" y2="242.82" />
-      <line class="pe" x1="6.62" y1="138.52" x2="6.62" y2="239.48" />
-      <line class="pe" x1="6.97" y1="136.46" x2="6.97" y2="241.54" />
-      <line class="pe" x1="7.32" y1="139.80" x2="7.32" y2="238.20" />
-      <line class="pe" x1="7.68" y1="137.73" x2="7.68" y2="240.27" />
-      <line class="pe" x1="8.03" y1="135.67" x2="8.03" y2="242.33" />
-      <line class="pe" x1="8.38" y1="139.01" x2="8.38" y2="238.99" />
-      <line class="pe" x1="8.74" y1="136.94" x2="8.74" y2="241.06" />
-      <line class="pe" x1="9.09" y1="140.28" x2="9.09" y2="237.72" />
-      <line class="pe" x1="9.44" y1="138.22" x2="9.44" y2="239.78" />
-      <line class="pe" x1="9.79" y1="136.16" x2="9.79" y2="241.84" />
-      <line class="pe" x1="10.15" y1="139.49" x2="10.15" y2="238.51" />
-      <line class="pe" x1="10.50" y1="137.43" x2="10.50" y2="240.57" />
-      <line class="pe" x1="10.85" y1="135.37" x2="10.85" y2="242.63" />
-      <line class="pe" x1="11.21" y1="138.70" x2="11.21" y2="239.30" />
-      <line class="pe" x1="11.56" y1="136.64" x2="11.56" y2="241.36" />
-      <line class="pe" x1="11.91" y1="139.98" x2="11.91" y2="238.02" />
-      <line class="pe" x1="12.26" y1="137.92" x2="12.26" y2="240.08" />
-      <line class="pe" x1="12.62" y1="135.85" x2="12.62" y2="242.15" />
-      <line class="pe" x1="12.97" y1="139.19" x2="12.97" y2="238.81" />
-      <line class="pe" x1="13.32" y1="137.13" x2="13.32" y2="240.87" />
-      <line class="pe" x1="166.68" y1="135.00" x2="166.68" y2="243.00" />
-      <line class="pe" x1="167.03" y1="138.34" x2="167.03" y2="239.66" />
-      <line class="pe" x1="167.38" y1="136.27" x2="167.38" y2="241.73" />
-      <line class="pe" x1="167.74" y1="139.61" x2="167.74" y2="238.39" />
-      <line class="pe" x1="168.09" y1="137.55" x2="168.09" y2="240.45" />
-      <line class="pe" x1="168.44" y1="135.49" x2="168.44" y2="242.51" />
-      <line class="pe" x1="168.79" y1="138.82" x2="168.79" y2="239.18" />
-      <line class="pe" x1="169.15" y1="136.76" x2="169.15" y2="241.24" />
-      <line class="pe" x1="169.50" y1="140.10" x2="169.50" y2="237.90" />
-      <line class="pe" x1="169.85" y1="138.03" x2="169.85" y2="239.97" />
-      <line class="pe" x1="170.21" y1="135.97" x2="170.21" y2="242.03" />
-      <line class="pe" x1="170.56" y1="139.31" x2="170.56" y2="238.69" />
-      <line class="pe" x1="170.91" y1="137.25" x2="170.91" y2="240.75" />
-      <line class="pe" x1="171.26" y1="135.18" x2="171.26" y2="242.82" />
-      <line class="pe" x1="171.62" y1="138.52" x2="171.62" y2="239.48" />
-      <line class="pe" x1="171.97" y1="136.46" x2="171.97" y2="241.54" />
-      <line class="pe" x1="172.32" y1="139.80" x2="172.32" y2="238.20" />
-      <line class="pe" x1="172.68" y1="137.73" x2="172.68" y2="240.27" />
-      <line class="pe" x1="173.03" y1="135.67" x2="173.03" y2="242.33" />
-      <line class="pe" x1="173.38" y1="139.01" x2="173.38" y2="238.99" />
-      <line class="pe" x1="173.74" y1="136.94" x2="173.74" y2="241.06" />
-      <line class="pe" x1="174.09" y1="140.28" x2="174.09" y2="237.72" />
-      <line class="pe" x1="174.44" y1="138.22" x2="174.44" y2="239.78" />
-      <line class="pe" x1="174.79" y1="136.16" x2="174.79" y2="241.84" />
-      <line class="pe" x1="175.15" y1="139.49" x2="175.15" y2="238.51" />
-      <line class="pe" x1="175.50" y1="137.43" x2="175.50" y2="240.57" />
-      <line class="pe" x1="175.85" y1="135.37" x2="175.85" y2="242.63" />
-      <line class="pe" x1="176.21" y1="138.70" x2="176.21" y2="239.30" />
-      <line class="pe" x1="176.56" y1="136.64" x2="176.56" y2="241.36" />
-      <line class="pe" x1="176.91" y1="139.98" x2="176.91" y2="238.02" />
-      <line class="pe" x1="177.26" y1="137.92" x2="177.26" y2="240.08" />
-      <line class="pe" x1="177.62" y1="135.85" x2="177.62" y2="242.15" />
-      <line class="pe" x1="177.97" y1="139.19" x2="177.97" y2="238.81" />
-      <line class="pe" x1="178.32" y1="137.13" x2="178.32" y2="240.87" />
 
+      <!-- BACKGROUND DOT PATTERNS (subtle) -->
+      <g id="bg_patterns">
+        <circle cx="28.0" cy="25.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="28.0" cy="35.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="28.0" cy="45.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="28.0" cy="55.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="28.0" cy="65.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="28.0" cy="75.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="28.0" cy="85.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="28.0" cy="95.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="28.0" cy="105.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="38.0" cy="25.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="38.0" cy="35.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="38.0" cy="45.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="38.0" cy="55.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="38.0" cy="65.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="38.0" cy="75.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="38.0" cy="85.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="38.0" cy="95.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="38.0" cy="105.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="48.0" cy="25.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="48.0" cy="35.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="48.0" cy="45.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="48.0" cy="55.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="48.0" cy="65.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="48.0" cy="75.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="48.0" cy="85.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="48.0" cy="95.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="48.0" cy="105.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="58.0" cy="25.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="58.0" cy="35.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="58.0" cy="45.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="58.0" cy="55.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="58.0" cy="65.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="58.0" cy="75.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="58.0" cy="85.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="58.0" cy="95.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="58.0" cy="105.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="68.0" cy="25.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="68.0" cy="35.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="68.0" cy="45.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="68.0" cy="55.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="68.0" cy="65.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="68.0" cy="75.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="68.0" cy="85.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="68.0" cy="95.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="68.0" cy="105.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="78.0" cy="25.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="78.0" cy="35.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="78.0" cy="45.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="78.0" cy="55.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="78.0" cy="65.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="78.0" cy="75.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="78.0" cy="85.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="78.0" cy="95.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="78.0" cy="105.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="88.0" cy="25.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="88.0" cy="35.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="88.0" cy="45.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="88.0" cy="55.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="88.0" cy="65.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="88.0" cy="75.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="88.0" cy="85.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="88.0" cy="95.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="88.0" cy="105.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="98.0" cy="25.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="98.0" cy="35.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="98.0" cy="45.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="98.0" cy="55.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="98.0" cy="65.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="98.0" cy="75.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="98.0" cy="85.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="98.0" cy="95.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="98.0" cy="105.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="108.0" cy="25.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="108.0" cy="35.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="108.0" cy="45.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="108.0" cy="55.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="108.0" cy="65.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="108.0" cy="75.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="108.0" cy="85.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="108.0" cy="95.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="108.0" cy="105.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="118.0" cy="25.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="118.0" cy="35.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="118.0" cy="45.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="118.0" cy="55.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="118.0" cy="65.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="118.0" cy="75.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="118.0" cy="85.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="118.0" cy="95.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="118.0" cy="105.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="128.0" cy="25.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="128.0" cy="35.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="128.0" cy="45.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="128.0" cy="55.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="128.0" cy="65.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="128.0" cy="75.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="128.0" cy="85.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="128.0" cy="95.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="128.0" cy="105.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="138.0" cy="25.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="138.0" cy="35.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="138.0" cy="45.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="138.0" cy="55.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="138.0" cy="65.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="138.0" cy="75.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="138.0" cy="85.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="138.0" cy="95.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="138.0" cy="105.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="148.0" cy="25.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="148.0" cy="35.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="148.0" cy="45.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="148.0" cy="55.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="148.0" cy="65.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="148.0" cy="75.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="148.0" cy="85.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="148.0" cy="95.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="148.0" cy="105.0" r="0.25" fill="#D6CAB0"/>
+        <circle cx="30.0" cy="150.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="30.0" cy="164.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="30.0" cy="178.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="30.0" cy="192.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="30.0" cy="206.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="30.0" cy="220.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="30.0" cy="234.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="44.0" cy="150.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="44.0" cy="164.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="44.0" cy="178.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="44.0" cy="192.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="44.0" cy="206.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="44.0" cy="220.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="44.0" cy="234.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="58.0" cy="150.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="58.0" cy="164.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="58.0" cy="178.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="58.0" cy="192.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="58.0" cy="206.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="58.0" cy="220.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="58.0" cy="234.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="72.0" cy="150.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="72.0" cy="164.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="72.0" cy="178.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="72.0" cy="192.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="72.0" cy="206.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="72.0" cy="220.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="72.0" cy="234.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="86.0" cy="150.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="86.0" cy="164.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="86.0" cy="178.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="86.0" cy="192.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="86.0" cy="206.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="86.0" cy="220.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="86.0" cy="234.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="100.0" cy="150.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="100.0" cy="164.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="100.0" cy="178.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="100.0" cy="192.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="100.0" cy="206.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="100.0" cy="220.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="100.0" cy="234.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="114.0" cy="150.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="114.0" cy="164.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="114.0" cy="178.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="114.0" cy="192.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="114.0" cy="206.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="114.0" cy="220.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="114.0" cy="234.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="128.0" cy="150.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="128.0" cy="164.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="128.0" cy="178.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="128.0" cy="192.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="128.0" cy="206.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="128.0" cy="220.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="128.0" cy="234.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="142.0" cy="150.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="142.0" cy="164.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="142.0" cy="178.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="142.0" cy="192.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="142.0" cy="206.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="142.0" cy="220.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="142.0" cy="234.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="156.0" cy="150.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="156.0" cy="164.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="156.0" cy="178.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="156.0" cy="192.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="156.0" cy="206.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="156.0" cy="220.0" r="0.2" fill="#D6CAB0"/>
+        <circle cx="156.0" cy="234.0" r="0.2" fill="#D6CAB0"/>
+      </g>
+
+      <!-- PAGE EDGES (fore-edge + top/bottom edges) -->
+      <g id="page_edges">
+        <line class="pe" x1="15.00" y1="244.20" x2="165.00" y2="244.20" />
+      <line class="pe" x1="18.71" y1="244.70" x2="161.29" y2="244.70" />
+      <line class="pe" x1="16.42" y1="245.21" x2="163.58" y2="245.21" />
+      <line class="pe" x1="20.12" y1="245.71" x2="159.88" y2="245.71" />
+      <line class="pe" x1="17.83" y1="246.22" x2="162.17" y2="246.22" />
+      <line class="pe" x1="15.54" y1="248.23" x2="164.46" y2="248.23" />
+      <line class="pe" x1="19.25" y1="248.74" x2="160.75" y2="248.74" />
+      <line class="pe" x1="16.96" y1="249.24" x2="163.04" y2="249.24" />
+      <line class="pe" x1="20.66" y1="249.74" x2="159.34" y2="249.74" />
+      <line class="pe" x1="18.37" y1="250.25" x2="161.63" y2="250.25" />
+      <line class="pe" x1="16.08" y1="250.75" x2="163.92" y2="250.75" />
+      <line class="pe" x1="19.79" y1="251.26" x2="160.21" y2="251.26" />
+      <line class="pe" x1="17.50" y1="251.76" x2="162.50" y2="251.76" />
+      <line class="pe" x1="15.20" y1="253.78" x2="164.80" y2="253.78" />
+      <line class="pe" x1="18.91" y1="254.28" x2="161.09" y2="254.28" />
+      <line class="pe" x1="16.62" y1="254.78" x2="163.38" y2="254.78" />
+      <line class="pe" x1="20.33" y1="255.29" x2="159.67" y2="255.29" />
+      <line class="pe" x1="18.04" y1="255.79" x2="161.96" y2="255.79" />
+        <line class="pe" x1="1.20" y1="135.00" x2="1.20" y2="243.00" />
+      <line class="pe" x1="1.70" y1="137.67" x2="1.70" y2="240.33" />
+      <line class="pe" x1="2.21" y1="136.02" x2="2.21" y2="241.98" />
+      <line class="pe" x1="2.71" y1="138.69" x2="2.71" y2="239.31" />
+      <line class="pe" x1="3.22" y1="137.04" x2="3.22" y2="240.96" />
+      <line class="pe" x1="5.23" y1="135.39" x2="5.23" y2="242.61" />
+      <line class="pe" x1="5.74" y1="138.06" x2="5.74" y2="239.94" />
+      <line class="pe" x1="6.24" y1="136.41" x2="6.24" y2="241.59" />
+      <line class="pe" x1="6.74" y1="139.08" x2="6.74" y2="238.92" />
+      <line class="pe" x1="7.25" y1="137.43" x2="7.25" y2="240.57" />
+      <line class="pe" x1="7.75" y1="135.78" x2="7.75" y2="242.22" />
+      <line class="pe" x1="8.26" y1="138.45" x2="8.26" y2="239.55" />
+      <line class="pe" x1="8.76" y1="136.80" x2="8.76" y2="241.20" />
+      <line class="pe" x1="10.78" y1="135.15" x2="10.78" y2="242.85" />
+      <line class="pe" x1="11.28" y1="137.82" x2="11.28" y2="240.18" />
+      <line class="pe" x1="11.78" y1="136.17" x2="11.78" y2="241.83" />
+      <line class="pe" x1="12.29" y1="138.84" x2="12.29" y2="239.16" />
+      <line class="pe" x1="12.79" y1="137.19" x2="12.79" y2="240.81" />
+        <line class="pe" x1="166.20" y1="135.00" x2="166.20" y2="243.00" />
+      <line class="pe" x1="166.70" y1="137.67" x2="166.70" y2="240.33" />
+      <line class="pe" x1="167.21" y1="136.02" x2="167.21" y2="241.98" />
+      <line class="pe" x1="167.71" y1="138.69" x2="167.71" y2="239.31" />
+      <line class="pe" x1="168.22" y1="137.04" x2="168.22" y2="240.96" />
+      <line class="pe" x1="170.23" y1="135.39" x2="170.23" y2="242.61" />
+      <line class="pe" x1="170.74" y1="138.06" x2="170.74" y2="239.94" />
+      <line class="pe" x1="171.24" y1="136.41" x2="171.24" y2="241.59" />
+      <line class="pe" x1="171.74" y1="139.08" x2="171.74" y2="238.92" />
+      <line class="pe" x1="172.25" y1="137.43" x2="172.25" y2="240.57" />
+      <line class="pe" x1="172.75" y1="135.78" x2="172.75" y2="242.22" />
+      <line class="pe" x1="173.26" y1="138.45" x2="173.26" y2="239.55" />
+      <line class="pe" x1="173.76" y1="136.80" x2="173.76" y2="241.20" />
+      <line class="pe" x1="175.78" y1="135.15" x2="175.78" y2="242.85" />
+      <line class="pe" x1="176.28" y1="137.82" x2="176.28" y2="240.18" />
+      <line class="pe" x1="176.78" y1="136.17" x2="176.78" y2="241.83" />
+      <line class="pe" x1="177.29" y1="138.84" x2="177.29" y2="239.16" />
+      <line class="pe" x1="177.79" y1="137.19" x2="177.79" y2="240.81" />
+      </g>
+
+      <!-- LID (front cover) - rotated 180 so it reads right-side-up when assembled -->
       <g id="lid_design" transform="rotate(180 90.0 66.0)">
-        <text x="90.0" y="28.0" text-anchor="middle"
-              font-family="Helvetica, Arial, sans-serif" font-size="3" letter-spacing="2.5" fill="#1A1815">VOLUME · I</text>
-        <line x1="62.0" y1="33.0" x2="118.0" y2="33.0" stroke="#1A1815" stroke-width="0.3"/>
-        <text x="90.0" y="55.0" text-anchor="middle"
-              font-family="Georgia, serif" font-size="11" font-weight="700" letter-spacing="2" fill="#1A1815">OPEN</text>
-        <text x="90.0" y="71.0" text-anchor="middle"
-              font-family="Georgia, serif" font-size="11" font-weight="700" letter-spacing="2" fill="#1A1815">QUESTIONS</text>
-        <line x1="62.0" y1="80.0" x2="118.0" y2="80.0" stroke="#1A1815" stroke-width="0.3"/>
-        <text x="90.0" y="87.0" text-anchor="middle"
-              font-family="Georgia, serif" font-size="4" font-style="italic" fill="#1A1815">thirty inquiries without endings</text>
-        <circle cx="85.0" cy="98.0" r="0.8" fill="#5C4F3D"/>
-        <circle cx="90.0" cy="98.0" r="0.8" fill="#5C4F3D"/>
-        <circle cx="95.0" cy="98.0" r="0.8" fill="#5C4F3D"/>
-        <text x="90.0" y="108.0" text-anchor="middle"
-              font-family="Helvetica, Arial, sans-serif" font-size="2.4" letter-spacing="1.8" fill="#5C4F3D">FIRST EDITION · MMXXVI</text>
+
+        <!-- Decorative double border frame -->
+        <rect x="19" y="16" width="142" height="100" fill="none" stroke="#1A1815" stroke-width="0.45"/>
+        <rect x="20.6" y="17.6" width="138.8" height="96.8" fill="none" stroke="#1A1815" stroke-width="0.2"/>
+
+        <!-- Corner diamond marks (4 corners) -->
+        <polygon points="23,18.5 24.5,20 23,21.5 21.5,20" fill="#1A1815"/>
+        <polygon points="157,18.5 158.5,20 157,21.5 155.5,20" fill="#1A1815"/>
+        <polygon points="23,110.5 24.5,112 23,113.5 21.5,112" fill="#1A1815"/>
+        <polygon points="157,110.5 158.5,112 157,113.5 155.5,112" fill="#1A1815"/>
+
+        <!-- Top header -->
+        <text x="90.0" y="24.0" text-anchor="middle"
+              font-family="Cinzel, 'Trajan Pro', Optima, 'Times New Roman', serif" font-size="2.6" letter-spacing="3.5" font-weight="600" fill="#1A1815">VOLVMEN · I</text>
+
+        <line x1="68.00" y1="29.00" x2="86.00" y2="29.00" stroke="#1A1815" stroke-width="0.3"/><polygon points="88.8,29.0 90.0,27.8 91.2,29.0 90.0,30.2" fill="#1A1815"/><line x1="94.00" y1="29.00" x2="112.00" y2="29.00" stroke="#1A1815" stroke-width="0.3"/>
+
+        <!-- Central quincunx symbol (chance / inquiry) -->
+        <circle cx="90.00" cy="42.00" r="1.30" fill="#1A1815"/>
+        <circle cx="85.67" cy="37.67" r="1.30" fill="#1A1815"/>
+        <circle cx="94.33" cy="37.67" r="1.30" fill="#1A1815"/>
+        <circle cx="85.67" cy="46.33" r="1.30" fill="#1A1815"/>
+        <circle cx="94.33" cy="46.33" r="1.30" fill="#1A1815"/>
+
+        <!-- Main title - Cinzel caps -->
+        <text x="90.0" y="60.0" text-anchor="middle"
+              font-family="Cinzel, 'Trajan Pro', Optima, 'Times New Roman', serif" font-size="14" font-weight="700" letter-spacing="3" fill="#1A1815">OPEN</text>
+        <text x="90.0" y="76.0" text-anchor="middle"
+              font-family="Cinzel, 'Trajan Pro', Optima, 'Times New Roman', serif" font-size="14" font-weight="700" letter-spacing="3" fill="#1A1815">QVESTIONS</text>
+
+        <!-- Decorative line below title -->
+        <line x1="60.00" y1="83.00" x2="86.00" y2="83.00" stroke="#1A1815" stroke-width="0.3"/><polygon points="88.8,83.0 90.0,81.8 91.2,83.0 90.0,84.2" fill="#1A1815"/><line x1="94.00" y1="83.00" x2="120.00" y2="83.00" stroke="#1A1815" stroke-width="0.3"/>
+
+        <!-- Italic subtitle - EB Garamond italic -->
+        <text x="90.0" y="91.0" text-anchor="middle"
+              font-family="'EB Garamond', 'Cormorant Garamond', Garamond, Georgia, serif" font-size="4.5" font-style="italic" fill="#1A1815">thirty inquiries without endings</text>
+
+        <!-- Small quincunx mark -->
+        <circle cx="90.00" cy="101.00" r="0.50" fill="#6B5B45"/>
+        <circle cx="88.33" cy="99.33" r="0.50" fill="#6B5B45"/>
+        <circle cx="91.67" cy="99.33" r="0.50" fill="#6B5B45"/>
+        <circle cx="88.33" cy="102.67" r="0.50" fill="#6B5B45"/>
+        <circle cx="91.67" cy="102.67" r="0.50" fill="#6B5B45"/>
+
+        <!-- Footer -->
+        <text x="90.0" y="111.0" text-anchor="middle"
+              font-family="Cinzel, 'Trajan Pro', Optima, 'Times New Roman', serif" font-size="2.2" letter-spacing="2.5" fill="#6B5B45">·  MMXXVI  ·</text>
+
       </g>
 
+      <!-- SPINE (back wall) -->
       <g id="spine_design">
-        <line x1="19" y1="122.5" x2="161" y2="122.5" stroke="#1A1815" stroke-width="0.3"/>
+        <!-- triple horizontal rule top -->
+        <line x1="21" y1="122.0" x2="159" y2="122.0" stroke="#1A1815" stroke-width="0.4"/>
+        <line x1="21" y1="123.0" x2="159" y2="123.0" stroke="#1A1815" stroke-width="0.15"/>
+
+        <!-- Title -->
         <text x="90.0" y="129.0" text-anchor="middle"
-              font-family="Georgia, serif" font-size="4" font-weight="700" letter-spacing="3" fill="#1A1815">OPEN QUESTIONS</text>
-        <line x1="19" y1="132.5" x2="161" y2="132.5" stroke="#1A1815" stroke-width="0.3"/>
-        <text x="23" y="129.0" text-anchor="start"
-              font-family="Helvetica, sans-serif" font-size="2.6" letter-spacing="1.2" fill="#5C4F3D">VOL · I</text>
-        <text x="157" y="129.0" text-anchor="end"
-              font-family="Helvetica, sans-serif" font-size="2.6" letter-spacing="1.2" fill="#5C4F3D">XXX</text>
+              font-family="Cinzel, 'Trajan Pro', Optima, 'Times New Roman', serif" font-size="4.2" font-weight="700" letter-spacing="4" fill="#1A1815">OPEN QVESTIONS</text>
+
+        <!-- triple horizontal rule bottom -->
+        <line x1="21" y1="132.0" x2="159" y2="132.0" stroke="#1A1815" stroke-width="0.15"/>
+        <line x1="21" y1="133.0" x2="159" y2="133.0" stroke="#1A1815" stroke-width="0.4"/>
+
+        <!-- Roman numeral I (volume) -->
+        <text x="27" y="129.0" text-anchor="middle"
+              font-family="Cinzel, 'Trajan Pro', Optima, 'Times New Roman', serif" font-size="3" font-weight="700" fill="#6B5B45">I</text>
+        <!-- Roman numeral XXX (card count) -->
+        <text x="153" y="129.0" text-anchor="middle"
+              font-family="Cinzel, 'Trajan Pro', Optima, 'Times New Roman', serif" font-size="3" font-weight="700" fill="#6B5B45">XXX</text>
+
+        <!-- Small diamond markers at the volume/count -->
+        <polygon points="34,127.0 34.7,128.0 34,129.0 33.3,128.0" fill="#6B5B45"/>
+        <polygon points="146,127.0 146.7,128.0 146,129.0 145.3,128.0" fill="#6B5B45"/>
       </g>
 
+      <!-- BASE (back cover) - minimal but with elements -->
       <g id="base_design">
-        <g fill="#5C4F3D">
-          <circle cx="80.0" cy="179.0" r="1.1"/>
-          <circle cx="90.0" cy="179.0" r="1.1"/>
-          <circle cx="100.0" cy="179.0" r="1.1"/>
-          <circle cx="80.0" cy="189.0" r="1.1"/>
-          <circle cx="100.0" cy="189.0" r="1.1"/>
-          <circle cx="80.0" cy="199.0" r="1.1"/>
-          <circle cx="90.0" cy="199.0" r="1.1"/>
-          <circle cx="100.0" cy="199.0" r="1.1"/>
-        </g>
-        <text x="90.0" y="213.0" text-anchor="middle"
-              font-family="Helvetica, sans-serif" font-size="2.6" letter-spacing="2" fill="#5C4F3D">VOLUME I OF II</text>
+
+        <!-- Large central quincunx -->
+        <circle cx="90.00" cy="183.00" r="1.50" fill="#1A1815"/>
+        <circle cx="82.67" cy="175.67" r="1.50" fill="#1A1815"/>
+        <circle cx="97.33" cy="175.67" r="1.50" fill="#1A1815"/>
+        <circle cx="82.67" cy="190.33" r="1.50" fill="#1A1815"/>
+        <circle cx="97.33" cy="190.33" r="1.50" fill="#1A1815"/>
+
+        <!-- Concentric ring around quincunx -->
+        <circle cx="90.0" cy="183.0" r="18" fill="none" stroke="#6B5B45" stroke-width="0.3"/>
+        <circle cx="90.0" cy="183.0" r="22" fill="none" stroke="#6B5B45" stroke-width="0.15"/>
+
+        <!-- Decorative line below ring -->
+        <line x1="65.00" y1="211.00" x2="86.00" y2="211.00" stroke="#6B5B45" stroke-width="0.3"/><polygon points="88.8,211.0 90.0,209.8 91.2,211.0 90.0,212.2" fill="#6B5B45"/><line x1="94.00" y1="211.00" x2="115.00" y2="211.00" stroke="#6B5B45" stroke-width="0.3"/>
+
+        <!-- Volume marker -->
         <text x="90.0" y="219.0" text-anchor="middle"
-              font-family="Georgia, serif" font-size="3.2" font-style="italic" fill="#5C4F3D">companion to PROVISIONAL ANSWERS</text>
+              font-family="Cinzel, 'Trajan Pro', Optima, 'Times New Roman', serif" font-size="3" letter-spacing="3" font-weight="600" fill="#1A1815">VOLVMEN I OF II</text>
+
+        <!-- Italic note -->
+        <text x="90.0" y="225.0" text-anchor="middle"
+              font-family="'EB Garamond', 'Cormorant Garamond', Garamond, Georgia, serif" font-size="3.4" font-style="italic" fill="#6B5B45">a companion to PROVISIONAL ANSWERS</text>
+
+        <!-- Printer's mark in bottom corner -->
+        <circle cx="151" cy="231" r="4.00" fill="none" stroke="#6B5B45" stroke-width="0.35"/><circle cx="151" cy="231" r="3.12" fill="none" stroke="#6B5B45" stroke-width="0.18"/><text x="151" y="232.44" text-anchor="middle" font-family="Cinzel, 'Trajan Pro', Optima, 'Times New Roman', serif" font-size="3.36" font-weight="700" letter-spacing="0.5" fill="#6B5B45">OQ</text>
+
+        <!-- Edition mark in opposite corner -->
+        <text x="25" y="233" text-anchor="start"
+              font-family="Cinzel, 'Trajan Pro', Optima, 'Times New Roman', serif" font-size="1.9" letter-spacing="1.5" fill="#6B5B45">EDITIO PRINCEPS</text>
+        <text x="25" y="236" text-anchor="start"
+              font-family="Cinzel, 'Trajan Pro', Optima, 'Times New Roman', serif" font-size="1.9" letter-spacing="1.5" fill="#6B5B45">MMXXVI</text>
       </g>
+
     </g>
 
     <g id="dieline">
