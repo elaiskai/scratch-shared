@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="220mm" height="298mm" viewBox="0 0 220 298">
+  <defs>
+    <style>
+      .cut { fill: none; stroke: #000; stroke-width: 0.5; }
+      .fold { fill: none; stroke: #d33; stroke-width: 0.4; stroke-dasharray: 3,2; }
+      .glue { fill: none; stroke: #36c; stroke-width: 0.4; stroke-dasharray: 2,2; }
+      .label { font-family: Helvetica, Arial, sans-serif; font-size: 3.4px; fill: #555; }
+      .title { font-family: Helvetica, Arial, sans-serif; font-size: 4.2px; fill: #000; }
+      .dim { font-family: Helvetica, Arial, sans-serif; font-size: 2.9px; fill: #777; }
+    </style>
+  </defs>
+  <g transform="translate(20, 20)">
+    <path class="cut" d="M 15,0 L 76.0,0 A 14.0,8 0 0 1 104.0,0 L 165,0 L 165,124 L 180,124 L 180,254 L 165,254 L 165,258 L 15,258 L 15,254 L 0,254 L 0,124 L 15,124 Z" />
+    <line class="cut" x1="30" y1="255" x2="150" y2="255" />
+    <line class="fold" x1="15" y1="12" x2="165" y2="12" />
+    <line class="fold" x1="15" y1="120" x2="165" y2="120" />
+    <line class="fold" x1="15" y1="135" x2="165" y2="135" />
+    <line class="fold" x1="15" y1="243" x2="165" y2="243" />
+    <line class="fold" x1="15" y1="135" x2="15" y2="243" />
+    <line class="fold" x1="165" y1="135" x2="165" y2="243" />
+    <line class="fold" x1="0" y1="135" x2="15" y2="135" />
+    <line class="fold" x1="0" y1="243" x2="15" y2="243" />
+    <line class="fold" x1="165" y1="135" x2="180" y2="135" />
+    <line class="fold" x1="165" y1="243" x2="180" y2="243" />
+    <line class="glue" x1="15" y1="124" x2="15" y2="135" />
+    <line class="glue" x1="15" y1="243" x2="15" y2="254" />
+    <line class="glue" x1="165" y1="124" x2="165" y2="135" />
+    <line class="glue" x1="165" y1="243" x2="165" y2="254" />
+    <text class="title" x="90.0" y="187.0" text-anchor="middle">BASE</text>
+    <text class="dim" x="90.0" y="193.0" text-anchor="middle">150 x 108 mm</text>
+    <text class="title" x="90.0" y="64.0" text-anchor="middle">LID</text>
+    <text class="dim" x="90.0" y="70.0" text-anchor="middle">150 x 108 mm</text>
+    <text class="label" x="90.0" y="10.0" text-anchor="middle">TUCK FLAP</text>
+    <text class="label" x="90.0" y="128.5" text-anchor="middle">BACK WALL (hinge)</text>
+    <text class="label" x="90.0" y="251.5" text-anchor="middle">FRONT WALL (slot)</text>
+    <text class="label" x="7.5" y="189.0" text-anchor="middle" transform="rotate(-90 7.5 189.0)">LEFT SIDE</text>
+    <text class="label" x="172.5" y="189.0" text-anchor="middle" transform="rotate(-90 172.5 189.0)">RIGHT SIDE</text>
+    <text class="title" x="0" y="-9">Card box dieline - interior 150 x 108 x 15 mm - fits 30 A6 cards (105 x 148 mm)</text>
+    <text class="dim" x="0" y="-4">Print 100% scale. Material: 1.5 mm corrugated (E-flute) or 300-400 gsm cardstock. Score folds before creasing.</text>
+    <text class="dim" x="0" y="264">Legend:  black solid = CUT    red dashed = FOLD (panel hinge)    blue dashed = GLUE TAB (adhere ear to inside of wall)</text>
+    <text class="dim" x="0" y="269">Assembly: 1) fold all 4 walls up   2) fold corner ears 90 inward, glue to inside of front/back walls   3) close lid, slide tuck flap through front slot.</text>
+  </g>
+</svg>
