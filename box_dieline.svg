@@ -5,40 +5,180 @@
       .cut { fill: none; stroke: #000; stroke-width: 0.5; }
       .fold { fill: none; stroke: #d33; stroke-width: 0.4; stroke-dasharray: 3,2; }
       .glue { fill: none; stroke: #36c; stroke-width: 0.4; stroke-dasharray: 2,2; }
-      .label { font-family: Helvetica, Arial, sans-serif; font-size: 3.4px; fill: #555; }
-      .title { font-family: Helvetica, Arial, sans-serif; font-size: 4.2px; fill: #000; }
-      .dim { font-family: Helvetica, Arial, sans-serif; font-size: 2.9px; fill: #777; }
+      .pe { fill: none; stroke: #9C8E78; stroke-width: 0.18; }
     </style>
   </defs>
   <g transform="translate(20, 20)">
-    <path class="cut" d="M 15,0 L 76.0,0 A 14.0,8 0 0 1 104.0,0 L 165,0 L 165,124 L 180,124 L 180,254 L 165,254 L 165,258 L 15,258 L 15,254 L 0,254 L 0,124 L 15,124 Z" />
-    <line class="cut" x1="30" y1="255" x2="150" y2="255" />
-    <line class="fold" x1="15" y1="12" x2="165" y2="12" />
-    <line class="fold" x1="15" y1="120" x2="165" y2="120" />
-    <line class="fold" x1="15" y1="135" x2="165" y2="135" />
-    <line class="fold" x1="15" y1="243" x2="165" y2="243" />
-    <line class="fold" x1="15" y1="135" x2="15" y2="243" />
-    <line class="fold" x1="165" y1="135" x2="165" y2="243" />
-    <line class="fold" x1="0" y1="135" x2="15" y2="135" />
-    <line class="fold" x1="0" y1="243" x2="15" y2="243" />
-    <line class="fold" x1="165" y1="135" x2="180" y2="135" />
-    <line class="fold" x1="165" y1="243" x2="180" y2="243" />
-    <line class="glue" x1="15" y1="124" x2="15" y2="135" />
-    <line class="glue" x1="15" y1="243" x2="15" y2="254" />
-    <line class="glue" x1="165" y1="124" x2="165" y2="135" />
-    <line class="glue" x1="165" y1="243" x2="165" y2="254" />
-    <text class="title" x="90.0" y="187.0" text-anchor="middle">BASE</text>
-    <text class="dim" x="90.0" y="193.0" text-anchor="middle">150 x 108 mm</text>
-    <text class="title" x="90.0" y="64.0" text-anchor="middle">LID</text>
-    <text class="dim" x="90.0" y="70.0" text-anchor="middle">150 x 108 mm</text>
-    <text class="label" x="90.0" y="10.0" text-anchor="middle">TUCK FLAP</text>
-    <text class="label" x="90.0" y="128.5" text-anchor="middle">BACK WALL (hinge)</text>
-    <text class="label" x="90.0" y="251.5" text-anchor="middle">FRONT WALL (slot)</text>
-    <text class="label" x="7.5" y="189.0" text-anchor="middle" transform="rotate(-90 7.5 189.0)">LEFT SIDE</text>
-    <text class="label" x="172.5" y="189.0" text-anchor="middle" transform="rotate(-90 172.5 189.0)">RIGHT SIDE</text>
-    <text class="title" x="0" y="-9">Card box dieline - interior 150 x 108 x 15 mm - fits 30 A6 cards (105 x 148 mm)</text>
-    <text class="dim" x="0" y="-4">Print 100% scale. Material: 1.5 mm corrugated (E-flute) or 300-400 gsm cardstock. Score folds before creasing.</text>
-    <text class="dim" x="0" y="264">Legend:  black solid = CUT    red dashed = FOLD (panel hinge)    blue dashed = GLUE TAB (adhere ear to inside of wall)</text>
-    <text class="dim" x="0" y="269">Assembly: 1) fold all 4 walls up   2) fold corner ears 90 inward, glue to inside of front/back walls   3) close lid, slide tuck flap through front slot.</text>
+
+    <g id="design">
+      <line class="pe" x1="15.00" y1="244.68" x2="165.00" y2="244.68" />
+      <line class="pe" x1="19.64" y1="245.03" x2="160.37" y2="245.03" />
+      <line class="pe" x1="16.77" y1="245.38" x2="163.23" y2="245.38" />
+      <line class="pe" x1="21.41" y1="245.74" x2="158.59" y2="245.74" />
+      <line class="pe" x1="18.54" y1="246.09" x2="161.46" y2="246.09" />
+      <line class="pe" x1="15.67" y1="246.44" x2="164.32" y2="246.44" />
+      <line class="pe" x1="20.31" y1="246.79" x2="159.69" y2="246.79" />
+      <line class="pe" x1="17.45" y1="247.15" x2="162.56" y2="247.15" />
+      <line class="pe" x1="22.08" y1="247.50" x2="157.92" y2="247.50" />
+      <line class="pe" x1="19.22" y1="247.85" x2="160.78" y2="247.85" />
+      <line class="pe" x1="16.35" y1="248.21" x2="163.65" y2="248.21" />
+      <line class="pe" x1="20.99" y1="248.56" x2="159.01" y2="248.56" />
+      <line class="pe" x1="18.12" y1="248.91" x2="161.88" y2="248.91" />
+      <line class="pe" x1="15.26" y1="249.26" x2="164.74" y2="249.26" />
+      <line class="pe" x1="19.89" y1="249.62" x2="160.11" y2="249.62" />
+      <line class="pe" x1="17.03" y1="249.97" x2="162.97" y2="249.97" />
+      <line class="pe" x1="21.66" y1="250.32" x2="158.34" y2="250.32" />
+      <line class="pe" x1="18.80" y1="250.68" x2="161.20" y2="250.68" />
+      <line class="pe" x1="15.93" y1="251.03" x2="164.07" y2="251.03" />
+      <line class="pe" x1="20.57" y1="251.38" x2="159.44" y2="251.38" />
+      <line class="pe" x1="17.70" y1="251.74" x2="162.30" y2="251.74" />
+      <line class="pe" x1="22.34" y1="252.09" x2="157.66" y2="252.09" />
+      <line class="pe" x1="19.47" y1="252.44" x2="160.53" y2="252.44" />
+      <line class="pe" x1="16.61" y1="252.79" x2="163.39" y2="252.79" />
+      <line class="pe" x1="21.24" y1="253.15" x2="158.76" y2="253.15" />
+      <line class="pe" x1="18.38" y1="253.50" x2="161.62" y2="253.50" />
+      <line class="pe" x1="15.51" y1="253.85" x2="164.49" y2="253.85" />
+      <line class="pe" x1="20.14" y1="254.21" x2="159.85" y2="254.21" />
+      <line class="pe" x1="17.28" y1="254.56" x2="162.72" y2="254.56" />
+      <line class="pe" x1="21.92" y1="254.91" x2="158.08" y2="254.91" />
+      <line class="pe" x1="19.05" y1="255.26" x2="160.95" y2="255.26" />
+      <line class="pe" x1="16.19" y1="255.62" x2="163.81" y2="255.62" />
+      <line class="pe" x1="20.82" y1="255.97" x2="159.18" y2="255.97" />
+      <line class="pe" x1="17.96" y1="256.32" x2="162.04" y2="256.32" />
+      <line class="pe" x1="1.68" y1="135.00" x2="1.68" y2="243.00" />
+      <line class="pe" x1="2.03" y1="138.34" x2="2.03" y2="239.66" />
+      <line class="pe" x1="2.38" y1="136.27" x2="2.38" y2="241.73" />
+      <line class="pe" x1="2.74" y1="139.61" x2="2.74" y2="238.39" />
+      <line class="pe" x1="3.09" y1="137.55" x2="3.09" y2="240.45" />
+      <line class="pe" x1="3.44" y1="135.49" x2="3.44" y2="242.51" />
+      <line class="pe" x1="3.79" y1="138.82" x2="3.79" y2="239.18" />
+      <line class="pe" x1="4.15" y1="136.76" x2="4.15" y2="241.24" />
+      <line class="pe" x1="4.50" y1="140.10" x2="4.50" y2="237.90" />
+      <line class="pe" x1="4.85" y1="138.03" x2="4.85" y2="239.97" />
+      <line class="pe" x1="5.21" y1="135.97" x2="5.21" y2="242.03" />
+      <line class="pe" x1="5.56" y1="139.31" x2="5.56" y2="238.69" />
+      <line class="pe" x1="5.91" y1="137.25" x2="5.91" y2="240.75" />
+      <line class="pe" x1="6.26" y1="135.18" x2="6.26" y2="242.82" />
+      <line class="pe" x1="6.62" y1="138.52" x2="6.62" y2="239.48" />
+      <line class="pe" x1="6.97" y1="136.46" x2="6.97" y2="241.54" />
+      <line class="pe" x1="7.32" y1="139.80" x2="7.32" y2="238.20" />
+      <line class="pe" x1="7.68" y1="137.73" x2="7.68" y2="240.27" />
+      <line class="pe" x1="8.03" y1="135.67" x2="8.03" y2="242.33" />
+      <line class="pe" x1="8.38" y1="139.01" x2="8.38" y2="238.99" />
+      <line class="pe" x1="8.74" y1="136.94" x2="8.74" y2="241.06" />
+      <line class="pe" x1="9.09" y1="140.28" x2="9.09" y2="237.72" />
+      <line class="pe" x1="9.44" y1="138.22" x2="9.44" y2="239.78" />
+      <line class="pe" x1="9.79" y1="136.16" x2="9.79" y2="241.84" />
+      <line class="pe" x1="10.15" y1="139.49" x2="10.15" y2="238.51" />
+      <line class="pe" x1="10.50" y1="137.43" x2="10.50" y2="240.57" />
+      <line class="pe" x1="10.85" y1="135.37" x2="10.85" y2="242.63" />
+      <line class="pe" x1="11.21" y1="138.70" x2="11.21" y2="239.30" />
+      <line class="pe" x1="11.56" y1="136.64" x2="11.56" y2="241.36" />
+      <line class="pe" x1="11.91" y1="139.98" x2="11.91" y2="238.02" />
+      <line class="pe" x1="12.26" y1="137.92" x2="12.26" y2="240.08" />
+      <line class="pe" x1="12.62" y1="135.85" x2="12.62" y2="242.15" />
+      <line class="pe" x1="12.97" y1="139.19" x2="12.97" y2="238.81" />
+      <line class="pe" x1="13.32" y1="137.13" x2="13.32" y2="240.87" />
+      <line class="pe" x1="166.68" y1="135.00" x2="166.68" y2="243.00" />
+      <line class="pe" x1="167.03" y1="138.34" x2="167.03" y2="239.66" />
+      <line class="pe" x1="167.38" y1="136.27" x2="167.38" y2="241.73" />
+      <line class="pe" x1="167.74" y1="139.61" x2="167.74" y2="238.39" />
+      <line class="pe" x1="168.09" y1="137.55" x2="168.09" y2="240.45" />
+      <line class="pe" x1="168.44" y1="135.49" x2="168.44" y2="242.51" />
+      <line class="pe" x1="168.79" y1="138.82" x2="168.79" y2="239.18" />
+      <line class="pe" x1="169.15" y1="136.76" x2="169.15" y2="241.24" />
+      <line class="pe" x1="169.50" y1="140.10" x2="169.50" y2="237.90" />
+      <line class="pe" x1="169.85" y1="138.03" x2="169.85" y2="239.97" />
+      <line class="pe" x1="170.21" y1="135.97" x2="170.21" y2="242.03" />
+      <line class="pe" x1="170.56" y1="139.31" x2="170.56" y2="238.69" />
+      <line class="pe" x1="170.91" y1="137.25" x2="170.91" y2="240.75" />
+      <line class="pe" x1="171.26" y1="135.18" x2="171.26" y2="242.82" />
+      <line class="pe" x1="171.62" y1="138.52" x2="171.62" y2="239.48" />
+      <line class="pe" x1="171.97" y1="136.46" x2="171.97" y2="241.54" />
+      <line class="pe" x1="172.32" y1="139.80" x2="172.32" y2="238.20" />
+      <line class="pe" x1="172.68" y1="137.73" x2="172.68" y2="240.27" />
+      <line class="pe" x1="173.03" y1="135.67" x2="173.03" y2="242.33" />
+      <line class="pe" x1="173.38" y1="139.01" x2="173.38" y2="238.99" />
+      <line class="pe" x1="173.74" y1="136.94" x2="173.74" y2="241.06" />
+      <line class="pe" x1="174.09" y1="140.28" x2="174.09" y2="237.72" />
+      <line class="pe" x1="174.44" y1="138.22" x2="174.44" y2="239.78" />
+      <line class="pe" x1="174.79" y1="136.16" x2="174.79" y2="241.84" />
+      <line class="pe" x1="175.15" y1="139.49" x2="175.15" y2="238.51" />
+      <line class="pe" x1="175.50" y1="137.43" x2="175.50" y2="240.57" />
+      <line class="pe" x1="175.85" y1="135.37" x2="175.85" y2="242.63" />
+      <line class="pe" x1="176.21" y1="138.70" x2="176.21" y2="239.30" />
+      <line class="pe" x1="176.56" y1="136.64" x2="176.56" y2="241.36" />
+      <line class="pe" x1="176.91" y1="139.98" x2="176.91" y2="238.02" />
+      <line class="pe" x1="177.26" y1="137.92" x2="177.26" y2="240.08" />
+      <line class="pe" x1="177.62" y1="135.85" x2="177.62" y2="242.15" />
+      <line class="pe" x1="177.97" y1="139.19" x2="177.97" y2="238.81" />
+      <line class="pe" x1="178.32" y1="137.13" x2="178.32" y2="240.87" />
+
+      <g id="lid_design" transform="rotate(180 90.0 66.0)">
+        <text x="90.0" y="28.0" text-anchor="middle"
+              font-family="Helvetica, Arial, sans-serif" font-size="3" letter-spacing="2.5" fill="#1A1815">VOLUME · I</text>
+        <line x1="62.0" y1="33.0" x2="118.0" y2="33.0" stroke="#1A1815" stroke-width="0.3"/>
+        <text x="90.0" y="55.0" text-anchor="middle"
+              font-family="Georgia, serif" font-size="11" font-weight="700" letter-spacing="2" fill="#1A1815">OPEN</text>
+        <text x="90.0" y="71.0" text-anchor="middle"
+              font-family="Georgia, serif" font-size="11" font-weight="700" letter-spacing="2" fill="#1A1815">QUESTIONS</text>
+        <line x1="62.0" y1="80.0" x2="118.0" y2="80.0" stroke="#1A1815" stroke-width="0.3"/>
+        <text x="90.0" y="87.0" text-anchor="middle"
+              font-family="Georgia, serif" font-size="4" font-style="italic" fill="#1A1815">thirty inquiries without endings</text>
+        <circle cx="85.0" cy="98.0" r="0.8" fill="#5C4F3D"/>
+        <circle cx="90.0" cy="98.0" r="0.8" fill="#5C4F3D"/>
+        <circle cx="95.0" cy="98.0" r="0.8" fill="#5C4F3D"/>
+        <text x="90.0" y="108.0" text-anchor="middle"
+              font-family="Helvetica, Arial, sans-serif" font-size="2.4" letter-spacing="1.8" fill="#5C4F3D">FIRST EDITION · MMXXVI</text>
+      </g>
+
+      <g id="spine_design">
+        <line x1="19" y1="122.5" x2="161" y2="122.5" stroke="#1A1815" stroke-width="0.3"/>
+        <text x="90.0" y="129.0" text-anchor="middle"
+              font-family="Georgia, serif" font-size="4" font-weight="700" letter-spacing="3" fill="#1A1815">OPEN QUESTIONS</text>
+        <line x1="19" y1="132.5" x2="161" y2="132.5" stroke="#1A1815" stroke-width="0.3"/>
+        <text x="23" y="129.0" text-anchor="start"
+              font-family="Helvetica, sans-serif" font-size="2.6" letter-spacing="1.2" fill="#5C4F3D">VOL · I</text>
+        <text x="157" y="129.0" text-anchor="end"
+              font-family="Helvetica, sans-serif" font-size="2.6" letter-spacing="1.2" fill="#5C4F3D">XXX</text>
+      </g>
+
+      <g id="base_design">
+        <g fill="#5C4F3D">
+          <circle cx="80.0" cy="179.0" r="1.1"/>
+          <circle cx="90.0" cy="179.0" r="1.1"/>
+          <circle cx="100.0" cy="179.0" r="1.1"/>
+          <circle cx="80.0" cy="189.0" r="1.1"/>
+          <circle cx="100.0" cy="189.0" r="1.1"/>
+          <circle cx="80.0" cy="199.0" r="1.1"/>
+          <circle cx="90.0" cy="199.0" r="1.1"/>
+          <circle cx="100.0" cy="199.0" r="1.1"/>
+        </g>
+        <text x="90.0" y="213.0" text-anchor="middle"
+              font-family="Helvetica, sans-serif" font-size="2.6" letter-spacing="2" fill="#5C4F3D">VOLUME I OF II</text>
+        <text x="90.0" y="219.0" text-anchor="middle"
+              font-family="Georgia, serif" font-size="3.2" font-style="italic" fill="#5C4F3D">companion to PROVISIONAL ANSWERS</text>
+      </g>
+    </g>
+
+    <g id="dieline">
+      <path class="cut" d="M 15,0 L 76.0,0 A 14.0,8 0 0 1 104.0,0 L 165,0 L 165,124 L 180,124 L 180,254 L 165,254 L 165,258 L 15,258 L 15,254 L 0,254 L 0,124 L 15,124 Z"/>
+      <line class="cut" x1="30" y1="255" x2="150" y2="255"/>
+      <line class="fold" x1="15" y1="12" x2="165" y2="12"/>
+      <line class="fold" x1="15" y1="120" x2="165" y2="120"/>
+      <line class="fold" x1="15" y1="135" x2="165" y2="135"/>
+      <line class="fold" x1="15" y1="243" x2="165" y2="243"/>
+      <line class="fold" x1="15" y1="135" x2="15" y2="243"/>
+      <line class="fold" x1="165" y1="135" x2="165" y2="243"/>
+      <line class="fold" x1="0" y1="135" x2="15" y2="135"/>
+      <line class="fold" x1="0" y1="243" x2="15" y2="243"/>
+      <line class="fold" x1="165" y1="135" x2="180" y2="135"/>
+      <line class="fold" x1="165" y1="243" x2="180" y2="243"/>
+      <line class="glue" x1="15" y1="124" x2="15" y2="135"/>
+      <line class="glue" x1="15" y1="243" x2="15" y2="254"/>
+      <line class="glue" x1="165" y1="124" x2="165" y2="135"/>
+      <line class="glue" x1="165" y1="243" x2="165" y2="254"/>
+    </g>
+
   </g>
 </svg>
